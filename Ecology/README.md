@@ -1,4 +1,4 @@
-# Ecology-notes-
+# Ecology notes
 Notes on "Ecology: Ecosystem Dynamics and Conservation" offered on Coursera.
 
 ## Week1_introduction
