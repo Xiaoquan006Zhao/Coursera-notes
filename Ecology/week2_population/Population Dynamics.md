@@ -47,7 +47,7 @@ for many years, using energy early on for growth rather than reproduction.
 **Metapopulations**
 - A metapopulation is a group of subpopulations that are separated by inhospitable terrain but linked when individuals occasionally move between them and reproduce.
 
-## Survivorship
+### Survivorship
 - Survivorship refers to the fraction of individuals that lives up to a certain age (versus survival rate, which is the probability of 
 an individual surviving a given unit of time). 
 ![](./images/populationDynamics_Survivorship.png?raw=true)
