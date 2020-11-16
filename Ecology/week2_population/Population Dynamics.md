@@ -44,8 +44,19 @@ for many years, using energy early on for growth rather than reproduction.
 - In plant, dispersal is a more diverse process, which can involve pollen and seeds and is mediated most frequently by wind or animals.
 - Dispersal can prevent inbreeding between closely related individuals and expand habitat. Thus, increases the chance for the population to persist. 
 
+**Metapopulations**
+- A metapopulation is a group of subpopulations that are separated by inhospitable terrain but linked when individuals occasionally move between them and reproduce.
+
 ## Survivorship
 - Survivorship refers to the fraction of individuals that lives up to a certain age (versus survival rate, which is the probability of 
 an individual surviving a given unit of time). 
+![](./images/populationDynamics_Survivorship.png?raw=true)
+
+
+
+
+
+
+
 
 
