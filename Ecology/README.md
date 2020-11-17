@@ -6,3 +6,5 @@ Introductions on general idea and terminology of ecology, biodiversity, and ecos
 
 ## Week2_population
 Discussion on why population is important and how to model a population growth by making assumptions to a complex system that might affect population (model a population by extracting features like birth rate, death rate, maturation rate, carring capacity). 
+
+## Week3_community
