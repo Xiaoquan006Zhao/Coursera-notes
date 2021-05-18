@@ -1,1 +1,18 @@
 # Community Structure and Dynamics
+- Bottom-up and Top-down controls
+  - Bottom-up
+    - Lower trophic levels influence higher trophic levels
+  - Top-down
+    - Higher trophic levels influence lower trophic levels
+- Species with large effects
+  - Keystone Species
+    - Trophic cascade
+    - Increase or decrease the population of keystone species will influence other species in the system significantly
+  - Abundant Species
+    - Species become abundant by avoiding predation, surviving disease, outcompeting competitors
+    - Added effect will shape the system they are in 
+  - Ecosystem Engineers
+    - Species that alter, maintain, destory the enviornment they are in
+      - Corals build reefs
+      - Beavers build dams
+      - The effect can be positive or negative depends on other species living in the same system
