@@ -8,4 +8,7 @@ Introductions on general idea and terminology of ecology, biodiversity, and ecos
 Discussion on why population is important and how to model a population growth by making assumptions to a complex system that might affect population (model a population by extracting features like birth rate, death rate, maturation rate, carring capacity). 
 
 ## Week3_community
-Discussion the different interactions between species and how some species shape their system(keystone, abundant, engineer).
+Discussion on the different interactions between species and how some species shape their system(keystone, abundant, engineer).
+
+## Week3_Energy_and_Matter
+Discussion on the flow of energy and matter in an Ecosystem.
