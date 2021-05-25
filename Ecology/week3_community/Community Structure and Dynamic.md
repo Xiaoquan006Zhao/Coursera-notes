@@ -8,6 +8,8 @@
   - Keystone Species
     - Trophic cascade
     - Increase or decrease the population of keystone species will influence other species in the system significantly
+    - Abiotic changes such as enviornment change can also influence other species to a point that the system can not function. The two can happen at the same time.
+      - Slat marsh, the drought increase the salinity which decrease plant population and making the habitat unsuitable for top predators which increase grazer population which further derease plant population.  
   - Abundant Species
     - Species become abundant by avoiding predation, surviving disease, outcompeting competitors
     - Added effect will shape the system they are in 
